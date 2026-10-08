@@ -1,14 +1,14 @@
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/CrisLovestar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=CrisLovestar&count=5&unique=false" alt="Spotify recently played"  />
+<br clear="both">
+
+<div data-importer="music" align="left">
+  <a href="https://open.spotify.com/user/316gfc73am7jyy72zgvubxrjbkmq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316gfc73am7jyy72zgvubxrjbkmq&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<div data-importer="image" align="left">
-  <img data-importer="image" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG42aW9weWRucHh0NmZha29yN2IyY2h1aGpwZmY3MXJsbzR4b3YyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GMWZ5MnVAX2zVT3zdY/giphy.gif"  />
-</div>
+<img data-importer="image" align="left" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG42aW9weWRucHh0NmZha29yN2IyY2h1aGpwZmY3MXJsbzR4b3YyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GMWZ5MnVAX2zVT3zdY/giphy.gif"  />
 
 ###
 
