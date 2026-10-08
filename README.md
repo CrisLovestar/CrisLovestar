@@ -8,10 +8,6 @@
 
 ###
 
-<img data-importer="image" align="left" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG42aW9weWRucHh0NmZha29yN2IyY2h1aGpwZmY3MXJsbzR4b3YyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GMWZ5MnVAX2zVT3zdY/giphy.gif"  />
-
-###
-
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/cris__bkr?stkn=MXg1c2N1aG13Y3pqdQ==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
